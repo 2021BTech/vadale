@@ -3194,11 +3194,7 @@
         font-size: 30px;
         line-height: 40px;
     }
-    .full-width-header .rs-header .menu-area.sticky .logo-area img,
-    .rs-footer .footer-content .about-widget .logo-part a img,
-    .full-width-header .rs-header .menu-area .logo-area img {
-        max-height: 25px;
-    }
+    
     .rs-about.style1 .services-part .services-text {
         padding-left: 0;
     }
